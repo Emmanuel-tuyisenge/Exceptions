@@ -12,5 +12,5 @@ try{
     echo $exception;
     $megane->setParkBrake(false);
 } finally {
-    echo 'Ma voiture roule comme un donut' .'<br>';
+    echo 'Ma voiture roule comme un donut';
 }
